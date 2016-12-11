@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Ελληνικό Ανοικτό Πανεπιστήμιο
+${licensePrefix}Στο πλαίσιο των Γραπτών Εργασιών της Θεματικής Ενότητας
+${licensePrefix}ΠΛΗ24: Σχεδιασμός Λογισμικού
+${licensePrefix}Γλώσσες Προγραμματισμού ΙΙ – Αντικειμενοστρεφής Προγραμματισμός
+<#if licenseLast??>
+${licenseLast}
+</#if>
