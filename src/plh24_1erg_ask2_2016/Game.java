@@ -4,11 +4,11 @@
  * ΠΛΗ24: Σχεδιασμός Λογισμικού
  * Γλώσσες Προγραμματισμού ΙΙ – Αντικειμενοστρεφής Προγραμματισμός
  */
-package plh24_1erg_ask2_melachroinos_andreas;
+package plh24_1erg_ask2_2016;
 
 /**
  *
- * @author Andreas Melachroinos <std084194@ac.eap.gr>
+ * @author 
  *
  * Η κλάση του παιχνιδιού η οποία χρησιμοποιείται από τις ομάδες.
  */

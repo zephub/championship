@@ -4,13 +4,13 @@
  * ΠΛΗ24: Σχεδιασμός Λογισμικού
  * Γλώσσες Προγραμματισμού ΙΙ – Αντικειμενοστρεφής Προγραμματισμός
  */
-package plh24_1erg_ask2_melachroinos_andreas;
+package plh24_1erg_ask2_2016;
 
 /**
  * Μια ομάδα (Team) μπορεί να είναι είτε ομάδα ποδοσφαίρου (FootballTeam), είτε
  * ομάδα καλαθοσφαίρισης (BasketballTeam).
  *
- * @author Andreas Melachroinos <std084194@ac.eap.gr>
+ * @author 
  */
 public class BasketballTeam extends Team {
 
